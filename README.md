@@ -1,6 +1,8 @@
 # Sketchfab/ArtStation Ripper #
 You can download any 3D model available on sketchfab for free using sketchfab ripper software
 
+I DID NOT MAKE THIS SKETCHFAB RIPPPER
+
 ## Links: ##
 - Discord: https://discord.gg/ReUnrvfdXa - If this tool is ever released elsewhere, the link in the tool's About screen (located in the options window) will automatically update.
 - Version archive (does not include beta releases): https://mega.nz/folder/D1lRQY4L#_QHmdjEgAg4wMo-1vAZw6w
