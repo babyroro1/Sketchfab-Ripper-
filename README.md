@@ -1,6 +1,13 @@
 # Sketchfab/ArtStation Ripper #
 You can download any 3D model available on sketchfab for free using sketchfab ripper software
-
+<br />
+    <a href="https://github.com/babyroro1/Sketchfab-Ripper-/releases/latest/">Download</a>
+    ·
+    <img alt="Total Downloads" src="https://img.shields.io/github/downloads/babyroro1/Sketchfab-Ripper-/total?label=Downloads">
+    ·
+    <a href="https://github.com/babyroro1/Sketchfab-Ripper-issues">Report Bugs</a>
+  </p>
+</p>
 I DID NOT MAKE THIS SKETCHFAB RIPPPER
 
 ## Links: ##
